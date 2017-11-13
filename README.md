@@ -1,5 +1,5 @@
 # MyLineView
-自定view练习
+
 ![](https://github.com/qiaojiuyuan/MyLineView/raw/master/img/line_view.png)
 ```
 最近看了HenCoder的自定义View部分，想着做出来个东西练练手，正好项目中这期版本有个界面要用到这方面的
